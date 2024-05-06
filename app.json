@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "by-breed",
-    "slug": "by-breed",
+    "name": "cutedoro",
+    "slug": "cutedoro",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/cutedoro.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -24,7 +24,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/cutedoro.png"
     }
   }
 }
